@@ -1,0 +1,88 @@
+{
+    "profiles":[
+        {
+            "basics":{
+                "name":"P Hampi",
+                "email":"penumoluhampi@gmail.com",
+                "mobile":"+91 7674855247"
+            },
+            "education":[
+                {
+                    "degree":"S.S.C",
+                    "percentage":"97",
+                    "institute":"Jubilee English Medium High School"
+                },
+                {
+                    "degree":"Intermediate-(M.P.C)",
+                    "percentage":"95.5",
+                    "institute":"Narayana Junior College"
+                },
+                {
+                    "degree":"B-Tech-(C.S.E)",
+                    "percentage":"90",
+                    "institute":"Vasireddy Venkatadri Institute of Technology"
+                }
+            ],
+            "skills":[
+                {
+                    "type":"Programming Languages",
+                    "values":["C","C++","Java","Python","Ruby"]
+                },
+                {
+                    "type":"Web Technologies",
+                    "values":["HTML","CSS","JavaScript"]
+                },
+                {
+                    "type":"Frameworks & Libraries",
+                    "values":["ReactJs"]
+                },
+                {
+                    "type":"Operating Systems",
+                    "values":["Windows","Linux","Mac"]
+                }
+            ]
+        },
+        {
+            "basics":{
+                "name":"Sr Ramya",
+                "email":"ramya@gmail.com",
+                "mobile":"+91 7509588995"
+            },
+            "education":[
+                {
+                    "degree":"S.S.C",
+                    "percentage":"97",
+                    "institute":"Viveka English Medium High School"
+                },
+                {
+                    "degree":"Intermediate-(M.P.C)",
+                    "percentage":"95.5",
+                    "institute":"N.R.I Junior College"
+                },
+                {
+                    "degree":"B-Tech-(C.S.E)",
+                    "percentage":"90",
+                    "institute":"Vasireddy Venkatadri Institute of Technology"
+                }
+            ],
+            "skills":[
+                {
+                    "type":"Programming Languages",
+                    "values":["C","C++","Java","Python","Ruby"]
+                },
+                {
+                    "type":"Web Technologies",
+                    "values":["HTML","CSS","JavaScript"]
+                },
+                {
+                    "type":"Frameworks & Libraries",
+                    "values":["ReactJs"]
+                },
+                {
+                    "type":"Operating Systems",
+                    "values":["Windows","Linux","Mac"]
+                }
+            ] 
+        }
+    ]
+}
